@@ -1,0 +1,5 @@
+#+TITLE: Pixel-Canvas
+#+options: toc:nil
+
+* Description
+Collaborative pixelart editor using socket.io, vue and simple server implementation.
